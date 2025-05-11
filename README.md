@@ -1,6 +1,10 @@
 # 🚀 ⚡ Dynamic Status Indicator – Peerlist Challenge Day 2 Submission
 
+![Screenshot (15)](https://github.com/user-attachments/assets/4230f780-9c10-4023-9d9b-78d42a59c7fd)
 
+![Screenshot (16)](https://github.com/user-attachments/assets/5a4ce86b-3d98-47d8-b7fe-ebc22b4d6695)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/c7e2dcda-86e3-4982-ae7d-c3199313e205)
 
 - A real-time, visually dynamic status indicator built using React, Tailwind CSS, and Framer Motion — crafted for Peerlist's #5Days Challenge (Day 2).
 - This mini project showcases clean animation logic, responsive styling, and interaction-driven UI feedback.
@@ -123,7 +127,11 @@ npm start
 
 ## 📸 Screenshots
 
+![Screenshot (15)](https://github.com/user-attachments/assets/4230f780-9c10-4023-9d9b-78d42a59c7fd)
 
+![Screenshot (16)](https://github.com/user-attachments/assets/5a4ce86b-3d98-47d8-b7fe-ebc22b4d6695)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/c7e2dcda-86e3-4982-ae7d-c3199313e205)
 
 ## 🤝 Contributing
 We welcome community contributions! Follow the steps below to contribute:
